@@ -1,0 +1,26 @@
+html{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+}
+header{
+    margin: 0 400px ;
+    padding: 30px 0;
+}
+section{
+    font-size: 2em;
+    margin: 0 400px;
+    padding: 40px 0;
+}
+img{
+    width: 300px;
+    height: 20em;
+    margin: 0 400px;
+}
+
+footer{
+    border-top: solid 2px;
+    padding-top: 2em;
+    margin: 0 400px;
+}
+
